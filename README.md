@@ -1,0 +1,5 @@
+Mollie Mero (molliem16), Hannah Solis (hannahs2), Shreya Thothathri (shreyathoth), Lucas Kopp (lucaszacharykopp)
+
+Overview:
+
+Many companies struggle with scheduling sprints. A standard sprint doesn’t always suit every team. With many teams having different requirements from their sprint, they need the ability to customize how often they do standups and how long their sprints are. It could even account for periods between sprints where teams can prepare for upcoming projects by gaining skills necessary or discuss with other teams how the sprint may be improved. When necessary, it could even mark in calendars when people within or across teams need to meet at the end of their sprint to discuss their next step. Our more customizable platform will allow for teams to change sprint requirements for their needs. Beyond helping the overall team, Marathon helps the managers of the project by saving them time. Meetings would be automatically created and developers would be notified of any important changes the manager makes.
